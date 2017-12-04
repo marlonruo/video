@@ -25,5 +25,5 @@
     <engine name="android" spec="^6.2.3" />
     <engine name="ios" spec="^4.4.0" />
     <plugin name="com.tokbox.cordova.opentok" spec="https://github.com/opentok/cordova-plugin-opentok" />
-    <plugin name="cordova-plugin-whitelist" spec="^1.3.3" />
+    <plugin name="cordova-plugin-whitelist"/>
 </widget>
